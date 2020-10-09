@@ -9,6 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 npm i json-server
 :arrow_forward: To install CONCURRENTLY
 npm i concurrently
+ng g c customers/customer -m customers --skipTests=true
 
 
 ## Angular CLI commands :
