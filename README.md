@@ -5,7 +5,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Commands Used : 
 
 :arrow_forward: npm i @ngrx/store     
-
+:arrow_forward: To install JSON-Server
+npm i json-server
 
 ## Development server
 
