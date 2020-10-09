@@ -14,6 +14,7 @@ npm i concurrently
 ## Angular CLI commands :
 1. ng g c home --skipTests=true
 2. ng g c navbar --skipTests=true
+3. ng g m customers --routing
 
 ## Development server
 
