@@ -9,13 +9,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 npm i json-server
 :arrow_forward: To install CONCURRENTLY
 npm i concurrently
-ng g c customers/customer -m customers --skipTests=true
-
 
 ## Angular CLI commands :
 1. ng g c home --skipTests=true
 2. ng g c navbar --skipTests=true
 3. ng g m customers --routing
+4. ng g c customers/customer -m customers --skipTests=true
 
 ## Development server
 
