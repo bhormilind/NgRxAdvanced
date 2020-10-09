@@ -1,0 +1,17 @@
+"customers": [
+  {
+    "id":1,
+    "name": "Jonh Wick",
+    "phone": "9876543210",
+    "address": "12345 MB Street",
+    "Membership": "PLATINUM"
+  },
+  {
+    "id":1,
+    "name": "Captain America",
+    "phone": "9139999999",
+    "address": "100 Marvel Street",
+    "Membership": "PRO"
+  }
+
+]
