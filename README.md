@@ -15,6 +15,8 @@ npm i concurrently
 2. ng g c navbar --skipTests=true
 3. ng g m customers --routing
 4. ng g c customers/customer -m customers --skipTests=true
+5. ng g c customers/customerEdit -m customers --skipTests=true
+6. ng g c customers/customerAdd -m customers --skipTests=true
 
 ## Development server
 
