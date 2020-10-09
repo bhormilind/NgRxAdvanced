@@ -7,6 +7,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 :arrow_forward: npm i @ngrx/store     
 :arrow_forward: To install JSON-Server
 npm i json-server
+:arrow_forward: To install CONCURRENTLY
+npm i concurrently
 
 ## Development server
 
