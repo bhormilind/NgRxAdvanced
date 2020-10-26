@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
+# Libraries : 
+@ngrx/store @ngrs/effects @ngrx/entity @ngrx/store-devtools @ngrx/router-store 
+
 ## Commands Used : 
 
 :arrow_forward: npm i @ngrx/store     
